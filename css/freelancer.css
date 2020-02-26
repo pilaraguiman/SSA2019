@@ -221,6 +221,7 @@ header.masthead h2 {
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
+  background-color: white;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
